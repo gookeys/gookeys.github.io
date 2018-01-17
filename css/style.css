@@ -15,10 +15,10 @@ header{background-image:url(http://gookeys.in/gks/images/gookeys-banner.jpg);bac
 .logo a{float:left}
 .logo a img{width:100%;float:left}
 .mobile-menu{display:none}
-nav{float:right;display:block;width:30%}
+nav{float:right;display:block;width:60%}
 nav i{display:none}
 nav ul{float:left;width:100%}
-nav ul li{display:block;float:left;padding:8% 3%}
+nav ul li{display:block;float:left;padding:4% 3%}
 nav ul li a{color:#fff;text-decoration:none;font-weight:600;outline:none}
 nav ul li a:hover{color:#00a600}
 .banner{padding:13% 10%;float:left;width:100%;box-sizing:border-box}
@@ -65,7 +65,7 @@ nav{width:40%;}
 .container{width:100%}
 .work-card-cont .title-head{padding:3% 1%;box-sizing:border-box}
 }
-@media screen and (max-width: 940px) {
+@media screen and (max-width: 950px) {
 header{height:300px}
 .container{width:100%}
 .mobile-menu{display:block;float:right;padding:3.5% 5% 0;font-size:30px}
