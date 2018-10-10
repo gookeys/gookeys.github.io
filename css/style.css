@@ -11,7 +11,7 @@ body{font-family:'Hind',sans-serif}
 .fix-header{background-color:#fff}
 .fix-header nav li a{color:#484848}
 header{background-image:url(http://gookeys.in/gks/images/gookeys-banner.jpg);background-repeat:no-repeat;background-size:cover;height:400px}
-.logo{width:160px;float:left;padding:.5%;box-sizing:border-box}
+.logo{width:180px;float:left;padding:14px 0;box-sizing:border-box}
 .logo a{float:left}
 .logo a img{width:100%;float:left}
 .mobile-menu{display:none}
