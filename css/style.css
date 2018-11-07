@@ -10,7 +10,7 @@ body{font-family:'Hind',sans-serif}
 .wrap{width:100%;float:left;border-bottom:1px solid #a2a2a2;position:fixed;top:0;z-index:99999}
 .fix-header{background-color:#fff}
 .fix-header nav li a{color:#484848}
-header{background-image:url(http://gookeys.in/gks/images/gookeys-banner.jpg);background-repeat:no-repeat;background-size:cover;height:400px}
+header{background-image:url(../images/banner.jpg);background-repeat:no-repeat;background-size:cover;height:400px}
 .logo{width:180px;float:left;padding:14px 0;box-sizing:border-box}
 .logo a{float:left}
 .logo a img{width:100%;float:left}
