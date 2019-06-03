@@ -231,8 +231,6 @@
             </div>
         </div>
     </section>
-    <div class="fb-customerchat" attribution=setup_tool page_id="436944343061292">
-        </div>
     <footer>
         <div class="container">
             <div class="copyright">
@@ -256,28 +254,24 @@
         </div>
         <a href="#gotop" class="gtop"><i class="mdi mdi-chevron-up"></i></a>
     </footer>
+    <div class="fb-livechat">
+            <div class="gokys fb-overlay"></div>
+            <div class="fb-widget">
+                <div class="gokys fb-close"></div>
+                <div class="fb-page" data-href="https://www.facebook.com/goo.keys/" data-tabs="messages"
+                    data-width="360" data-height="400" data-small-header="true" data-hide-cover="true"
+                    data-show-facepile="false">
+                    <blockquote cite="https://www.facebook.com/goo.keys/" class="fb-xfbml-parse-ignore">
+                    </blockquote>
+                </div>
+                <div id="fb-root"></div>
+            </div>
+        </div>
     <script src='js/jquery-3.1.1.min.js'></script>
     <script src='js/app.js'></script>
     <!-- Load Facebook SDK for JavaScript -->
-    <div id="fb-root"></div>
-    <script>
-        window.fbAsyncInit = function () {
-            FB.init({
-                xfbml: true,
-                version: 'v3.3'
-            });
-        };
-
-        (function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>
-
-    <!-- Your customer chat code -->
-
+    <script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9"></script>
+    <script>$(document).ready(function () { var t = { delay: 125, overlay: $(".fb-overlay"), widget: $(".fb-widget"), button: $(".fb-button") }; setTimeout(function () { $("div.fb-livechat").fadeIn() }, 8 * t.delay), $(".gokys").on("click", function (e) { e.preventDefault(), t.overlay.is(":visible") ? (t.overlay.fadeOut(t.delay), t.widget.stop().animate({ bottom: 0, opacity: 0 }, 2 * t.delay, function () { $(this).hide("slow"), t.button.show() })) : t.button.fadeOut("medium", function () { t.widget.stop().show().animate({ bottom: "30px", opacity: 1 }, 2 * t.delay), t.overlay.fadeIn(t.delay) }) }) });</script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-54044688-1"></script>
     <script>
