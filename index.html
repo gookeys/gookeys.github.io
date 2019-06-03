@@ -255,9 +255,9 @@
         <a href="#gotop" class="gtop"><i class="mdi mdi-chevron-up"></i></a>
     </footer>
     <div class="fb-livechat">
-        <div class="ctrlq fb-overlay"></div>
+        <div class="gokys fb-overlay"></div>
         <div class="fb-widget">
-            <div class="ctrlq fb-close"></div>
+            <div class="gokys fb-close"></div>
             <div class="fb-page" data-href="https://www.facebook.com/goo.keys/" data-tabs="messages"
                 data-width="360" data-height="400" data-small-header="true" data-hide-cover="true"
                 data-show-facepile="false">
@@ -266,7 +266,7 @@
             </div>
             <div id="fb-root"></div>
         </div>
-        <a href="https://m.me/digital.inspiration" title="Send us a message on Facebook" class="ctrlq fb-button"></a>
+        <a href="https://m.me/goo.keys" title="Send us a message on Facebook" class="gokys fb-button"></a>
     </div>
     <script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9"></script>
     <script src='js/jquery-3.1.1.min.js'></script>
@@ -283,7 +283,7 @@
             setTimeout(function () {
                 $("div.fb-livechat").fadeIn();
             }, $fb.delay * 8);
-            $(".ctrlq").on('click', function (e) {
+            $(".gokys").on('click', function (e) {
                 e.preventDefault();
                 if ($fb.overlay.is(":visible")) {
                     $fb.overlay.fadeOut($fb.delay);
@@ -297,7 +297,7 @@
                 } else {
                     $fb.button.fadeOut('medium', function () {
                         $fb.widget.stop().show().animate({
-                            bottom: "30px",
+                            bottom: "60px",
                             opacity: 1
                         }, $fb.delay * 2);
                         $fb.overlay.fadeIn($fb.delay);
