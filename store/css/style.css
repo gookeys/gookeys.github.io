@@ -2342,6 +2342,9 @@ html {
   }
 }
 @media (max-width: 992px) {
+  main {
+    padding: 0 10px;
+  }
   main .banner {
     padding: 40px 4%;
   }
