@@ -2337,7 +2337,7 @@ html {
         align-self: stretch !important;
   }
 }
-@media (min-width: 992px) {
+@media (max-width: 992px) {
   header nav {
     padding: 0 40px;
   }
