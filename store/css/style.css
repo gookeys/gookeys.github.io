@@ -57,6 +57,10 @@ header nav ul li a {
   color: #000000;
 }
 
+header nav .menu {
+  display: none;
+}
+
 main {
   width: 100%;
   float: left;
@@ -2338,15 +2342,35 @@ html {
   }
 }
 @media (max-width: 992px) {
-  header nav {
-    padding: 0 40px;
-  }
   main .banner {
     padding: 40px 4%;
   }
   main .banner h1 {
     width: 90%;
     margin: 0 5%;
+  }
+  header nav {
+    padding: 0 10px;
+    position: relative;
+  }
+  header nav ul {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 80px;
+    background-color: #ffffff;
+    display: none;
+  }
+  header nav ul.open {
+    display: block;
+  }
+  header nav ul li {
+    width: 100%;
+    display: block;
+    border: 1px solid #f2f2f2;
+  }
+  header nav .menu {
+    display: block;
   }
 }
 /*# sourceMappingURL=style.css.map */
