@@ -21,7 +21,9 @@
     p {
         font-size: 14px;
         margin: 30px 20px;
-        color: #505050;
+        color: #6e6e6e;
+        letter-spacing: .2px;
+        line-height: 1.8em;
     }
 
     a {
@@ -34,6 +36,13 @@
         margin-right: 10px !important;
         font-size: 14px !important;
         opacity: 1 !important;
+    }
+
+    p.price {
+        font-weight: 700;
+        margin: 5px 20px 30px;
+        color: #002588;
+        font-size:22px;
     }
 }
 
@@ -59,11 +68,19 @@
         font-weight: 400;
         margin: 0 0 20px;
         line-height: 1.8em;
-        color: #43515c;
+        color: #6e6e6e;
+        letter-spacing: .2px;
 
         b {
             font-weight: 600;
         }
+    }
+
+    p.price {
+        font-weight: 700;
+        margin: 5px 0 30px;
+        color: #002588;
+        font-size:22px;
     }
 
     b {
