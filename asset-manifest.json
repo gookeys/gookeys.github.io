@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.6836feea.chunk.css",
-    "main.js": "/static/js/main.e4e07254.chunk.js",
-    "main.js.map": "/static/js/main.e4e07254.chunk.js.map",
+    "main.css": "/static/css/main.1290b9b4.chunk.css",
+    "main.js": "/static/js/main.e97a6b42.chunk.js",
+    "main.js.map": "/static/js/main.e97a6b42.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.29420547.js",
     "runtime-main.js.map": "/static/js/runtime-main.29420547.js.map",
     "static/js/2.028da238.chunk.js": "/static/js/2.028da238.chunk.js",
@@ -10,21 +10,22 @@
     "static/js/3.12d32b3c.chunk.js": "/static/js/3.12d32b3c.chunk.js",
     "static/js/3.12d32b3c.chunk.js.map": "/static/js/3.12d32b3c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6836feea.chunk.css.map": "/static/css/main.6836feea.chunk.css.map",
+    "static/css/main.1290b9b4.chunk.css.map": "/static/css/main.1290b9b4.chunk.css.map",
     "static/js/2.028da238.chunk.js.LICENSE.txt": "/static/js/2.028da238.chunk.js.LICENSE.txt",
     "static/media/Color-Interior-Banner.ca35279d.jpg": "/static/media/Color-Interior-Banner.ca35279d.jpg",
     "static/media/Colors-Interior-Full.ba79805d.jpg": "/static/media/Colors-Interior-Full.ba79805d.jpg",
     "static/media/GChat-Full.79a742a7.jpg": "/static/media/GChat-Full.79a742a7.jpg",
     "static/media/Gchat-Banner.e8d71ea9.jpg": "/static/media/Gchat-Banner.e8d71ea9.jpg",
     "static/media/GeeO-Full.e217a928.jpg": "/static/media/GeeO-Full.e217a928.jpg",
+    "static/media/GeekGokul.b573fa1b.png": "/static/media/GeekGokul.b573fa1b.png",
     "static/media/Geeo-Banner.98c9ae4a.jpg": "/static/media/Geeo-Banner.98c9ae4a.jpg",
+    "static/media/Gkys-Gg.28d4186a.jpg": "/static/media/Gkys-Gg.28d4186a.jpg",
+    "static/media/Gkys-Gpx.39a0ae6b.jpg": "/static/media/Gkys-Gpx.39a0ae6b.jpg",
+    "static/media/Gkys-Icon.53bb4428.jpg": "/static/media/Gkys-Icon.53bb4428.jpg",
     "static/media/Mint-Banner.01ede141.jpg": "/static/media/Mint-Banner.01ede141.jpg",
     "static/media/Mint-Full.75814201.jpg": "/static/media/Mint-Full.75814201.jpg",
     "static/media/index.css": "/static/media/Poppins-Regular.8081832f.ttf",
-    "static/media/Tricksschool.4fcdb37c.png": "/static/media/Tricksschool.4fcdb37c.png",
-    "static/media/YT-Geek-Logo.00eefc71.jpg": "/static/media/YT-Geek-Logo.00eefc71.jpg",
-    "static/media/YT-Geek-com.019b1959.jpg": "/static/media/YT-Geek-com.019b1959.jpg",
-    "static/media/Main.scss": "/static/media/bg-ts.4400860b.jpg",
+    "static/media/Profils-Banner.e78c0b74.jpg": "/static/media/Profils-Banner.e78c0b74.jpg",
     "static/media/bnr.551e10af.png": "/static/media/bnr.551e10af.png",
     "static/media/check-circle.deb775e4.svg": "/static/media/check-circle.deb775e4.svg",
     "static/media/chevron-right.aba1647c.svg": "/static/media/chevron-right.aba1647c.svg",
@@ -33,14 +34,16 @@
     "static/media/edit.f9db1ea1.png": "/static/media/edit.f9db1ea1.png",
     "static/media/gookeys-logo.3acb938a.svg": "/static/media/gookeys-logo.3acb938a.svg",
     "static/media/image.96d6a8e9.png": "/static/media/image.96d6a8e9.png",
+    "static/media/profils-template.04c008fb.jpg": "/static/media/profils-template.04c008fb.jpg",
     "static/media/send.ae0242d9.png": "/static/media/send.ae0242d9.png",
     "static/media/template.42303c7d.png": "/static/media/template.42303c7d.png",
+    "static/media/Main.scss": "/static/media/video-bg.a165a093.png",
     "static/media/video.9b5782ed.png": "/static/media/video.9b5782ed.png"
   },
   "entrypoints": [
     "static/js/runtime-main.29420547.js",
     "static/js/2.028da238.chunk.js",
-    "static/css/main.6836feea.chunk.css",
-    "static/js/main.e4e07254.chunk.js"
+    "static/css/main.1290b9b4.chunk.css",
+    "static/js/main.e97a6b42.chunk.js"
   ]
 }
