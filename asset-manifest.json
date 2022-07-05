@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.61e1a38b.chunk.css",
-    "main.js": "/static/js/main.a59c844b.chunk.js",
-    "main.js.map": "/static/js/main.a59c844b.chunk.js.map",
+    "main.js": "/static/js/main.ae9b7a86.chunk.js",
+    "main.js.map": "/static/js/main.ae9b7a86.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.29420547.js",
     "runtime-main.js.map": "/static/js/runtime-main.29420547.js.map",
     "static/js/2.028da238.chunk.js": "/static/js/2.028da238.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/Geeo-Banner.98c9ae4a.jpg": "/static/media/Geeo-Banner.98c9ae4a.jpg",
     "static/media/Gkys-Gg.28d4186a.jpg": "/static/media/Gkys-Gg.28d4186a.jpg",
     "static/media/Gkys-Gpx.39a0ae6b.jpg": "/static/media/Gkys-Gpx.39a0ae6b.jpg",
-    "static/media/Gkys-Icon.53bb4428.jpg": "/static/media/Gkys-Icon.53bb4428.jpg",
+    "static/media/Gkys-Icons.39044780.jpg": "/static/media/Gkys-Icons.39044780.jpg",
     "static/media/Mint-Banner.01ede141.jpg": "/static/media/Mint-Banner.01ede141.jpg",
     "static/media/Mint-Full.75814201.jpg": "/static/media/Mint-Full.75814201.jpg",
     "static/media/index.css": "/static/media/Poppins-Regular.8081832f.ttf",
@@ -44,6 +44,6 @@
     "static/js/runtime-main.29420547.js",
     "static/js/2.028da238.chunk.js",
     "static/css/main.61e1a38b.chunk.css",
-    "static/js/main.a59c844b.chunk.js"
+    "static/js/main.ae9b7a86.chunk.js"
   ]
 }
