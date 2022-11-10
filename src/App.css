@@ -1,0 +1,117 @@
+body {
+  background-color:#f3f6f6;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.lf{
+  float: left;
+}
+.rt{
+  float: right;
+}
+
+
+/*-page-css-*/
+.homcrd {
+  margin: 0 0 30px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+}
+.templimg img {
+  width: 100%;
+  margin: 25px 0;
+}
+.templimg h1 {
+  font-size: 22px;
+  font-weight: 500;
+  margin: 30px 20px;
+}
+.templimg p {
+  font-size: 14px;
+  margin: 30px 20px;
+  color: #6e6e6e;
+  letter-spacing: 0.2px;
+  line-height: 1.8em;
+}
+.templimg a {
+  background-color: #143601 !important;
+  border: 0 !important;
+  border-radius: 25px !important;
+  padding: 6px 20px !important;
+  color: #fff !important;
+  text-decoration: none !important;
+  margin: 10px 10px 10px 0 !important;
+  font-size: 0.8rem !important;
+  opacity: 1 !important;
+  display: inline-block !important;
+}
+.templimg p.price {
+  font-weight: 700;
+  margin: 5px 20px 30px;
+  color: #002588;
+  font-size: 1.25rem;
+}
+.im-checkout {
+  display: inline-block;
+}
+.pagecnt h1 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin: 0 0 20px;
+}
+.pagecnt h2 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin: 0 0 20px;
+}
+.pagecnt p {
+  font-size: 0.8rem;
+  font-weight: 400;
+  margin: 0 0 20px;
+  line-height: 1.8em;
+  color: #6e6e6e;
+  letter-spacing: 0.2px;
+}
+.pagecnt p b {
+  font-weight: 600;
+}
+.pagecnt p.price {
+  font-weight: 700;
+  margin: 5px 0 30px;
+  color: #002588;
+  font-size: 1.5rem;
+}
+.pagecnt b {
+  font-weight: 600;
+  color: #43515c;
+}
+.pagecnt ul {
+  margin-left: 30px;
+}
+.pagecnt ul li {
+  padding: 5px 0;
+  color: #43515c;
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+.pagecnt img {
+  width: 100%;
+}
+.pagecnt a {
+  background-color: #143601 !important;
+  border: 0 !important;
+  border-radius: 25px !important;
+  padding: 6px 20px !important;
+  color: #fff !important;
+  text-decoration: none !important;
+  margin: 10px 10px 10px 0 !important;
+  font-size: 0.8rem !important;
+  opacity: 1 !important;
+  display: inline-block !important;
+}
