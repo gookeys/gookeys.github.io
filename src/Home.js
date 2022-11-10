@@ -172,7 +172,7 @@ class Home extends React.Component {
                     ICNS, EPS, PNG Base64, and SVG Base64.
                   </p>
                   <div class="col-lg-12 lf txct">
-                    <a href="https://geekicons.blogspot.com" class="gbtn mt15p mb20p">
+                    <a href="https://geekicons.blogspot.in" class="gbtn mt15p mb20p">
                       Read Now
                     </a>
                   </div>
