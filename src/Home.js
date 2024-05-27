@@ -32,10 +32,12 @@ class Home extends React.Component {
             <div class="row">
               <div class="col-lg-12 lf">
                 <h1>
-                Professional themes, website templates, and icons for your project.
+                  Professional themes, website templates, and icons for your
+                  project.
                 </h1>
                 <p>
-                Discover thousands of icons and templates made by world-class developers.
+                  Discover thousands of icons and templates made by world-class
+                  developers.
                 </p>
                 <div class="col-lg-12 lf txct mb4p mt1p">
                   <Link to="/Store" className="fill">
@@ -75,7 +77,10 @@ class Home extends React.Component {
                   <div class="hmcrd org">
                     <h2>Design</h2>
                     <p>
-                    We gather requirements from your customers to understand their needs and ideas. We then create mock layouts and wireframes, obtain approval from the customer, and proceed with the coding.
+                      We gather requirements from your customers to understand
+                      their needs and ideas. We then create mock layouts and
+                      wireframes, obtain approval from the customer, and proceed
+                      with the coding.
                     </p>
                   </div>
                 </div>
@@ -83,7 +88,10 @@ class Home extends React.Component {
                   <div class="hmcrd blu mtp">
                     <h2>Code</h2>
                     <p>
-                    After finalizing the design layout, we proceed with code implementation. First, we create the UI design for the entire project and test the UI and UX. After that, we move on to functional implementation.
+                      After finalizing the design layout, we proceed with code
+                      implementation. First, we create the UI design for the
+                      entire project and test the UI and UX. After that, we move
+                      on to functional implementation.
                     </p>
                   </div>
                 </div>
@@ -91,7 +99,10 @@ class Home extends React.Component {
                   <div class="hmcrd ylw">
                     <h2>Build</h2>
                     <p>
-                    After the code and functionality work is completed, we combine all the code into the final build. We then test the build and ensure the code and functionality are working properly in the staging environment.
+                      After the code and functionality work is completed, we
+                      combine all the code into the final build. We then test
+                      the build and ensure the code and functionality are
+                      working properly in the staging environment.
                     </p>
                   </div>
                 </div>
@@ -99,7 +110,9 @@ class Home extends React.Component {
                   <div class="hmcrd grn mtp">
                     <h2>Launch</h2>
                     <p>
-                    We carefully inspect the site, including extensive mobile and responsive testing, to ensure a smooth transition post-launch.
+                      We carefully inspect the site, including extensive mobile
+                      and responsive testing, to ensure a smooth transition
+                      post-launch.
                     </p>
                   </div>
                 </div>
@@ -120,10 +133,15 @@ class Home extends React.Component {
                   </div>
                   <h2>Geek Gokul</h2>
                   <p>
-                  GeekGokul.com is a tech blog. We write posts related to tech news and updates about mobile, internet, gadgets, new technology, and e-governance in English.
+                    GeekGokul.com is a tech blog. We write posts related to tech
+                    news and updates about mobile, internet, gadgets, new
+                    technology, and e-governance in English.
                   </p>
                   <div class="col-lg-12 lf txct">
-                    <a href="https://www.geekgokul.com" class="gbtn mt15p mb20p">
+                    <a
+                      href="https://www.geekgokul.com"
+                      class="gbtn mt15p mb20p"
+                    >
                       Read Now
                     </a>
                   </div>
@@ -135,10 +153,15 @@ class Home extends React.Component {
                   </div>
                   <h2>Dev GeekGokul</h2>
                   <p>
-                  Free website widgets, tips, tricks, and tutorials on design software and coding. Dev GeekGokul is an expert in HTML, CSS, SCSS, JavaScript, jQuery, & React.
+                    Free website widgets, tips, tricks, and tutorials on design
+                    software and coding. Dev GeekGokul is an expert in HTML,
+                    CSS, SCSS, JavaScript, jQuery, & React.
                   </p>
                   <div class="col-lg-12 lf txct">
-                    <a href="https://dev.geekgokul.com" class="gbtn mt15p mb20p">
+                    <a
+                      href="https://dev.geekgokul.com"
+                      class="gbtn mt15p mb20p"
+                    >
                       Read Now
                     </a>
                   </div>
@@ -150,10 +173,15 @@ class Home extends React.Component {
                   </div>
                   <h2>Geek Icons</h2>
                   <p>
-                  We help designers improve their designs with our icons. Each icon is available in seven different formats: PNG, SVG, ICO, ICNS, EPS, PNG Base64, and SVG Base64.
+                    We help designers improve their designs with our icons. Each
+                    icon is available in seven different formats: PNG, SVG, ICO,
+                    ICNS, EPS, PNG Base64, and SVG Base64.
                   </p>
                   <div class="col-lg-12 lf txct">
-                    <a href="https://geekicons.blogspot.com" class="gbtn mt15p mb20p">
+                    <a
+                      href="https://geekicons.blogspot.com"
+                      class="gbtn mt15p mb20p"
+                    >
                       Read Now
                     </a>
                   </div>
@@ -171,14 +199,18 @@ class Home extends React.Component {
               </div>
               <div class="col-lg-12 col-sm-12 lf">
                 <div class="col-lg-6 col-sm-12 lf">
-                  <img src={GkysYtbe}/>
+                  <img src={GkysYtbe} />
                 </div>
                 <div class="col-lg-6 col-sm-12 lf">
                   <h2 class="mt15p">Geek Gokul</h2>
-                  <p class="mt2p mt3p">Geek Gokul is a YouTube channel that creates videos about tech news and updates on mobile, internet, gadgets, new technology, and e-governance in the Indian language Tamil.</p>
-                    <a href="https://www.youtube.com/geekgokul" class="gbtn mt5p">
-                      Watch Now
-                    </a>
+                  <p class="mt2p mt3p">
+                    Geek Gokul is a YouTube channel that creates videos about
+                    tech news and updates on mobile, internet, gadgets, new
+                    technology, and e-governance in the Indian language Tamil.
+                  </p>
+                  <a href="https://www.youtube.com/geekgokul" class="gbtn mt5p">
+                    Watch Now
+                  </a>
                 </div>
               </div>
             </div>
