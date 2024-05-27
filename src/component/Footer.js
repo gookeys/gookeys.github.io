@@ -5,6 +5,9 @@ import {Link} from 'react-router-dom';
 
 class Footer extends React.Component{
     render(){
+        const currentYear = new Date().getFullYear();
+        const startYear = 2013;
+        const yearsOfExperience = currentYear - startYear;
         return(
             <footer>
                 <div className='container'>
@@ -33,7 +36,7 @@ class Footer extends React.Component{
                                 <ul>
                                     <li><a href="https://www.gokul.work/search">Search</a></li>
                                     <li><a href="https://www.gokul.work/tools">Tools</a></li>
-                                    <li><a href="https://icon.geekgokul.com">IconBasket</a></li>
+                                    <li><a href="https://geekicons.blogspot.com/">Geek Icons</a></li>
                                     <li><a href="https://www.geekgokul.com/">Geek Gokul</a></li>
                                 </ul>
                             </div>
@@ -49,12 +52,11 @@ class Footer extends React.Component{
                             </div>
                             <div className='col-lg-3 col-sm-12 lf'>
                                 <img src={logo} alt='Gookeys Logo'/>
-                                <p>We have the experience in Web and Mobile App Design of past 9 Years. We create the en number
-                                    of design for web pased product and web sites.</p>
+                                <p>We have {yearsOfExperience} years of experience in web and mobile app design. We have created numerous designs for web-based products and websites.</p>
                             </div>
                         </div>
                         <div className='col-lg-12 lf crbtm'>
-                            <p>© 2021 Gookeys Store</p>
+                            <p>© {currentYear} Gookeys</p>
                         </div>
                     </div>
                 </div>
