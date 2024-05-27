@@ -26,8 +26,7 @@ class GeeOTemp extends React.Component{
                     <div className='col-lg-12 homcrd'>
                         <div className='col-lg-12 col-sm-12 pagecnt lf'>
                             <img src={ProfilsB} />
-    
-                            <p>PROFILS HTML5 mobile friendly website template. Specially designed for Profiles, Contact details, and your details view. This one is a simple super clean template. This will be compatible for both mobile, tablet, and computer screens. You can easily customizable with your content. This one single page template. </p>
+                            <p>PROFILS HTML5 Mobile-Friendly Website Template. Specifically designed for showcasing profiles, contact details, and personal information. This template boasts a simple, super clean design suitable for mobile, tablet, and computer screens. Easily customizable with your content, it's a single-page template.</p>
                             <p className='price'>₹ 299.00</p>
                             <a href="https://preview.gookeys.com/template/Profils-List-your-People/index.html" target="_blank">Preview</a>
                             <a href="https://gookeys.myinstamojo.com/product/3345507/profils-html5-template" target="_blank">Buy Now</a>

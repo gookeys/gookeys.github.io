@@ -17,7 +17,7 @@ class Shop extends React.Component{
                     <title>Gookeys - Store</title>
                 </Helmet>
                 <div className='banner'>
-                    <h1>HTML Website Templates Ready to use for your Web Project. Themes are compatible for all the size devices.</h1>
+                    <h1>HTML Website Templates Ready to Use for Your Web Project. Themes are Compatible with All Device Sizes.</h1>
                 </div>
                 <div className='container'>
                     <div className='row'>
