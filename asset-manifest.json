@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ab6dd9b5.css",
-    "main.js": "/static/js/main.7e76e3a0.js",
+    "main.js": "/static/js/main.efb27a35.js",
     "static/js/787.1862ac32.chunk.js": "/static/js/787.1862ac32.chunk.js",
     "static/media/GeeO-Full.jpg": "/static/media/GeeO-Full.e217a928636001eeb3b8.jpg",
     "static/media/Colors-Interior-Full.jpg": "/static/media/Colors-Interior-Full.ba79805d895455f27dda.jpg",
@@ -20,10 +20,10 @@
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
     "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
     "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
-    "static/media/Gkys-Gg.jpg": "/static/media/Gkys-Gg.28d4186a1a167eacb7b8.jpg",
-    "static/media/Gkys-Gpx.jpg": "/static/media/Gkys-Gpx.39a0ae6b435756554f7e.jpg",
     "static/media/send.png": "/static/media/send.ae0242d95b23f062f286.png",
+    "static/media/Dev-GeekGokul.png": "/static/media/Dev-GeekGokul.a6f9231f73b15d54466e.png",
     "static/media/image.png": "/static/media/image.96d6a8e952645f5c7ff3.png",
+    "static/media/GeekGokul-logo.png": "/static/media/GeekGokul-logo.689155b573fec61c3b04.png",
     "static/media/Gkys-Icons.jpg": "/static/media/Gkys-Icons.39044780bbdc820af6bf.jpg",
     "static/media/code.png": "/static/media/code.36af332bc0903d6b77ea.png",
     "static/media/edit.png": "/static/media/edit.f9db1ea16946b2e2e579.png",
@@ -35,11 +35,11 @@
     "static/media/check-circle.svg": "/static/media/check-circle.deb775e40cd12669ae24617cc6a5e695.svg",
     "static/media/chevron-right.svg": "/static/media/chevron-right.aba1647cebad5a62f905bbfe813b348d.svg",
     "main.ab6dd9b5.css.map": "/static/css/main.ab6dd9b5.css.map",
-    "main.7e76e3a0.js.map": "/static/js/main.7e76e3a0.js.map",
+    "main.efb27a35.js.map": "/static/js/main.efb27a35.js.map",
     "787.1862ac32.chunk.js.map": "/static/js/787.1862ac32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab6dd9b5.css",
-    "static/js/main.7e76e3a0.js"
+    "static/js/main.efb27a35.js"
   ]
 }
