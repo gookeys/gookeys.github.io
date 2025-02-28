@@ -6,47 +6,47 @@
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>https://www.gookeys.com/ui-ux-design</loc>
+        <loc>https://www.gookeys.com/#/ui-ux-design</loc>
         <priority>0.8</priority>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.gookeys.com/web-design-development</loc>
+        <loc>https://www.gookeys.com/#/web-design-development</loc>
         <priority>0.8</priority>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.gookeys.com/wordpress-services</loc>
+        <loc>https://www.gookeys.com/#/wordpress-services</loc>
         <priority>0.7</priority>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.gookeys.com/domain-web-hosting</loc>
+        <loc>https://www.gookeys.com/#/domain-web-hosting</loc>
         <priority>0.7</priority>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.gookeys.com/seo-digital-marketing</loc>
+        <loc>https://www.gookeys.com/#/seo-digital-marketing</loc>
         <priority>0.7</priority>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.gookeys.com/about</loc>
+        <loc>https://www.gookeys.com/#/about</loc>
         <priority>0.6</priority>
         <changefreq>yearly</changefreq>
     </url>
     <url>
-        <loc>https://www.gookeys.com/contact</loc>
+        <loc>https://www.gookeys.com/#/contact</loc>
         <priority>0.6</priority>
         <changefreq>yearly</changefreq>
     </url>
     <url>
-        <loc>https://www.gookeys.com/privacy-policy</loc>
+        <loc>https://www.gookeys.com/#/privacy-policy</loc>
         <priority>0.5</priority>
         <changefreq>yearly</changefreq>
     </url>
     <url>
-        <loc>https://www.gookeys.com/terms-of-service</loc>
+        <loc>https://www.gookeys.com/#/terms-of-service</loc>
         <priority>0.5</priority>
         <changefreq>yearly</changefreq>
     </url>
